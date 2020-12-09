@@ -8,7 +8,7 @@ action :install
 end
 
 file '/var/www/html/index.html' do
-content 'Chef Node 2 !!!! '
+content 'Chef Node 2.....Server 2 changes also done !!!! '
 action :create
 end
 
